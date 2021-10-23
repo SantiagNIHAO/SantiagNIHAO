@@ -2,7 +2,7 @@
 - 👀 I’m interested in being better at coding. 
 - 🌱 I’m currently learning Javascript. 
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: santiagobelles4@gmail.com
+- 📫 How to reach me: HERE
 
 <!---
 SantiagNIHAO/SantiagNIHAO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
